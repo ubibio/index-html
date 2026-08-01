@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: index-html
-        image: sgolilla/index-html:latest
+        image: sgolilla/index-html:15
         ports:
         - containerPort: 80
 ---
